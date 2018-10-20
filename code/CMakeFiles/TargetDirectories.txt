@@ -1,0 +1,6 @@
+/home/yaroslav/cpp-course/helloasm/CMakeFiles/rebuild_cache.dir
+/home/yaroslav/cpp-course/helloasm/CMakeFiles/edit_cache.dir
+/home/yaroslav/cpp-course/helloasm/CMakeFiles/mul.dir
+/home/yaroslav/cpp-course/helloasm/CMakeFiles/sub.dir
+/home/yaroslav/cpp-course/helloasm/CMakeFiles/hello.dir
+/home/yaroslav/cpp-course/helloasm/CMakeFiles/add.dir
